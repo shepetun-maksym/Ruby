@@ -1,0 +1,18 @@
+---
+secret: extensive
+correct_letters:
+- _
+- _
+- _
+- _
+- _
+- s
+- _
+- _
+- _
+wrong_letters:
+- g
+- r
+- f
+- h
+max_incorrect: 6
